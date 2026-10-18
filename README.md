@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  🙌 <b>Like it? <a href="https://www.reddit.com/r/osmopocket/s/lvCdD2MSma">Upvote the post on r/osmopocket</a></b> — it helps more Pocket 3 owners find the app.
+</p>
+
+<p align="center">
   <img src="docs/screenshot.png" alt="Pocket Control controlling a DJI Osmo Pocket 3" width="900">
 </p>
 
@@ -80,9 +84,15 @@ Pro licenses will be available soon.
 
 **"Open Anyway" isn't there.** Try opening the app once more, then check Privacy & Security again.
 
+## Support the project
+
+Pocket Control is free. If it's useful to you, the best way to help is to
+**[upvote and comment on the Reddit post](https://www.reddit.com/r/osmopocket/s/lvCdD2MSma)** so other Osmo Pocket 3 owners can find it.
+A ⭐ on this repo helps too.
+
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](../../issues/new/choose).
+Found a bug or have an idea? [Open an issue](../../issues/new/choose) or leave a comment on the [Reddit post](https://www.reddit.com/r/osmopocket/s/lvCdD2MSma).
 
 ## Disclaimer
 
@@ -100,3 +110,5 @@ Pocket Control, **DJI Osmo Pocket 3**'ü Mac'ten yönetilen bir masa kamerasına
 **Bağlantı:** Pocket 3'ü USB-C ile bağlayın ve kameranın ekranında **Webcam** modunu seçin.
 
 **Pro:** 4K kayıt, LUT'lar, 9:16 kılavuzu, oto kadraj, sahneler ve önizleme üstünden zoom/gimbal kontrolü. Pro lisansları yakında satışta olacak.
+
+**Destek:** Uygulamayı beğendiysen [Reddit gönderisine](https://www.reddit.com/r/osmopocket/s/lvCdD2MSma) upvote vermen, daha çok Pocket 3 sahibinin uygulamayı bulmasına yardım eder.
