@@ -13,6 +13,10 @@
   <a href="../../releases/latest"><b>⬇︎ Download the latest version</b></a>
 </p>
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Pocket Control controlling a DJI Osmo Pocket 3" width="900">
+</p>
+
 ---
 
 ## Features
@@ -33,7 +37,7 @@
 | **Zoom and aim on the preview** — scroll to zoom, drag or swipe to move the gimbal |  | ✅ |
 | DJI Mic auto-switch, audio meter, countdown, battery and disk info | ✅ | ✅ |
 
-Pro is unlocked with a license key in **Settings › Pro**.
+Pro licenses will be available soon.
 
 ## Requirements
 
@@ -95,4 +99,4 @@ Pocket Control, **DJI Osmo Pocket 3**'ü Mac'ten yönetilen bir masa kamerasına
 
 **Bağlantı:** Pocket 3'ü USB-C ile bağlayın ve kameranın ekranında **Webcam** modunu seçin.
 
-**Pro:** 4K kayıt, LUT'lar, 9:16 kılavuzu, oto kadraj, sahneler ve önizleme üstünden zoom/gimbal kontrolü. Lisans anahtarı **Ayarlar › Pro** bölümüne girilir.
+**Pro:** 4K kayıt, LUT'lar, 9:16 kılavuzu, oto kadraj, sahneler ve önizleme üstünden zoom/gimbal kontrolü. Pro lisansları yakında satışta olacak.
