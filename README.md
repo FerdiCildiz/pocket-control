@@ -98,17 +98,3 @@ Found a bug or have an idea? [Open an issue](../../issues/new/choose) or leave a
 
 Pocket Control is an independent project and is not affiliated with, endorsed by or sponsored by DJI.
 DJI, Osmo and Osmo Pocket are trademarks of SZ DJI Technology Co., Ltd.
-
----
-
-## Türkçe
-
-Pocket Control, **DJI Osmo Pocket 3**'ü Mac'ten yönetilen bir masa kamerasına çeviren ücretsiz bir macOS uygulamasıdır.
-
-**Kurulum:** [Releases](../../releases/latest) sayfasından DMG'yi indirin, uygulamayı **Uygulamalar** klasörüne sürükleyin. İlk açılışta macOS engellerse **Sistem Ayarları › Gizlilik ve Güvenlik › Yine de Aç** deyin. Kamera, mikrofon ve Bluetooth izinlerine izin verin.
-
-**Bağlantı:** Pocket 3'ü USB-C ile bağlayın ve kameranın ekranında **Webcam** modunu seçin.
-
-**Pro:** 4K kayıt, LUT'lar, 9:16 kılavuzu, oto kadraj, sahneler ve önizleme üstünden zoom/gimbal kontrolü. Pro lisansları yakında satışta olacak.
-
-**Destek:** Uygulamayı beğendiysen [Reddit gönderisine](https://www.reddit.com/r/osmopocket/s/lvCdD2MSma) upvote vermen, daha çok Pocket 3 sahibinin uygulamayı bulmasına yardım eder.
