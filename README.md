@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇︎ Download the latest version</b></a>
+  <a href="../../releases/latest"><b>⬇︎ Download the latest version</b></a> &nbsp;·&nbsp; <a href="https://ferdicildiz.gumroad.com/l/pocketcontrol"><b>Get Pro</b></a>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 | **Zoom and aim on the preview** — scroll to zoom, drag or swipe to move the gimbal |  | ✅ |
 | DJI Mic auto-switch, audio meter, countdown, battery and disk info | ✅ | ✅ |
 
-Pro licenses will be available soon.
+**[Get Pro on Gumroad](https://ferdicildiz.gumroad.com/l/pocketcontrol)** — a one-time purchase. Paste your license key in **Settings › Pro** to unlock it. One license activates Pro on one Mac.
 
 ## Requirements
 

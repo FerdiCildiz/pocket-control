@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1 — 2026-10-19
+
+- Pro licenses are now available on Gumroad: buy, paste the key in Settings › Pro, done
+- One license activates Pro on one Mac (re-activating on the same Mac is always fine)
+- Fixed the window jumping and flickering when switching between 1080p and 4K
+
 ## 1.0 — 2026-10-19
 
 First public release.
