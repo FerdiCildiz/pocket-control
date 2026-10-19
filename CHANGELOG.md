@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.4 — 2026-10-20
+
+- Scenes now live on the picture: up to 9 numbered buttons at the top right, one click to go there (or ⌥1–9)
+- Hover a scene to see its name, with rename and delete right next to it
+- Save a scene with the + button and give it a name
+- New PRO badge
+
 ## 1.1.3 — 2026-10-20
 
 - The camera stream pauses while the window is minimized or hidden, so the camera stays cooler
