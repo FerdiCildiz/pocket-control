@@ -3,6 +3,8 @@
 ## 1.1.2 — 2026-10-19
 
 - Face tracking corrects itself when the gimbal turns the wrong way (Osmo Pocket 4); joystick and dragging follow
+- The camera stream pauses while the window is minimized or hidden, so the camera stays cooler
+- More reliable direction detection on cameras with a slower gimbal
 
 ## 1.1.1 — 2026-10-19
 
