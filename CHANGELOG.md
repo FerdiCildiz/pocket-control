@@ -4,6 +4,7 @@
 
 - In-app updates: the app checks GitHub once a day and installs new versions in one click (Settings › Updates)
 - A clear prompt when the camera's own ActiveTrack takes over the gimbal, with one-click resume
+- Face tracking no longer switches itself off when you move from side to side
 
 ## 1.1 — 2026-10-19
 
