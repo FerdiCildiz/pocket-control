@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2 — 2026-10-19
+
+- Face tracking corrects itself when the gimbal turns the wrong way (Osmo Pocket 4); joystick and dragging follow
+
 ## 1.1.1 — 2026-10-19
 
 - In-app updates: the app checks GitHub once a day and installs new versions in one click (Settings › Updates)
