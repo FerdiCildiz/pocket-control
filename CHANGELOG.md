@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.5 — 2026-10-20
+
+- Your Pro license is now stored securely in the macOS Keychain and tied to this Mac
+- Pro confirms your license online now and then; it keeps working offline for up to 30 days
+- Settings › Pro shows the license status and lets you check again
+
 ## 1.1.4 — 2026-10-20
 
 - Scenes now live on the picture: up to 9 numbered buttons at the top right, one click to go there (or ⌥1–9)
