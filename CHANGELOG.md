@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1 — 2026-10-19
+
+- In-app updates: the app checks GitHub once a day and installs new versions in one click (Settings › Updates)
+- A clear prompt when the camera's own ActiveTrack takes over the gimbal, with one-click resume
+
 ## 1.1 — 2026-10-19
 
 - Pro licenses are now available on Gumroad: buy, paste the key in Settings › Pro, done
