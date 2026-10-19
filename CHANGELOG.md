@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.3 — 2026-10-20
+
+- The camera stream pauses while the window is minimized or hidden, so the camera stays cooler
+- More reliable correction when the gimbal turns the wrong way during face tracking (Osmo Pocket 4)
+- Updates can now also arrive as improved builds of the same version
+
 ## 1.1.2 — 2026-10-19
 
 - Face tracking corrects itself when the gimbal turns the wrong way (Osmo Pocket 4); joystick and dragging follow
