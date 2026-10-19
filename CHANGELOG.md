@@ -5,6 +5,7 @@
 - The camera stream pauses while the window is minimized or hidden, so the camera stays cooler
 - More reliable correction when the gimbal turns the wrong way during face tracking (Osmo Pocket 4)
 - Updates can now also arrive as improved builds of the same version
+- New app icon
 
 ## 1.1.2 — 2026-10-19
 
