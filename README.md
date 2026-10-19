@@ -2,7 +2,7 @@
   <img src="docs/icon.png" width="160" alt="App icon">
 </p>
 
-<h1 align="center">Pocket Control</h1>
+<h1 align="center">Pocket+</h1>
 
 <p align="center">
   A free macOS app that turns your <b>DJI Osmo Pocket 3</b> into a controllable desk camera:<br>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Pocket Control controlling a DJI Osmo Pocket 3" width="900">
+  <img src="docs/screenshot.png" alt="Pocket+ controlling a DJI Osmo Pocket 3" width="900">
 </p>
 
 ---
@@ -50,8 +50,8 @@
 
 ## Install
 
-1. Download `PocketControl-x.y.dmg` from [Releases](../../releases/latest) and open it.
-2. Drag **Pocket Control** into **Applications**.
+1. Download `PocketPlus-x.y.z.dmg` from [Releases](../../releases/latest) and open it.
+2. Drag **Pocket+** into **Applications**.
 3. Open the app. The app is free but not notarized by Apple, so macOS blocks it the first time:
    open **System Settings › Privacy & Security**, scroll down and click **Open Anyway**. You only do this once.
 4. Allow **Camera**, **Microphone** and **Bluetooth** when asked.
@@ -86,7 +86,7 @@
 
 ## Support the project
 
-Pocket Control is free. If it's useful to you, the best way to help is to
+Pocket+ is free. If it's useful to you, the best way to help is to
 **[upvote and comment on the Reddit post](https://www.reddit.com/r/osmopocket/s/lvCdD2MSma)** so other Osmo Pocket 3 owners can find it.
 A ⭐ on this repo helps too.
 
@@ -96,5 +96,5 @@ Found a bug or have an idea? [Open an issue](../../issues/new/choose) or leave a
 
 ## Disclaimer
 
-Pocket Control is an independent project and is not affiliated with, endorsed by or sponsored by DJI.
+Pocket+ is an independent project and is not affiliated with, endorsed by or sponsored by DJI.
 DJI, Osmo and Osmo Pocket are trademarks of SZ DJI Technology Co., Ltd.

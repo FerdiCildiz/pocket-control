@@ -1,8 +1,8 @@
-# Pocket Control — License
+# Pocket+ — License
 
 Copyright © 2026 Ferdi Cildiz. All rights reserved.
 
-Pocket Control is free to download and use, for personal and commercial work.
+Pocket+ is free to download and use, for personal and commercial work.
 
 - You may not sell, rent or redistribute the app or modified copies of it, except by linking to this repository.
 - You may not reverse engineer the app to remove or bypass license checks.
