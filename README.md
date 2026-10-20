@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Pocket+ controlling a DJI Osmo Pocket" width="900">
+  <img src="docs/screenshot.jpg" alt="Pocket+ controlling a DJI Osmo Pocket" width="900">
 </p>
 
 ---
