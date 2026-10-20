@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.5 — 2026-10-20
+
+- Vertical video (9:16): switch with the buttons at the top or ⇧⌘V. True vertical 1080×1920 with the Pocket upright, or a sharper 1216×2160 crop from 4K without turning the camera
+- Wide-angle lens correction (Pro): the new Wide Angle button straightens the curved edges of the DJI wide-angle lens, with a strength slider
+- Return to last position (Pro): when the camera reconnects it turns and zooms back to where you left it; landscape and vertical keep their own positions and scenes
+- Reset camera position from the title bar: centers the camera at 1× and forgets the last position
+- The preview no longer freezes when OBS, Google Meet or Zoom opens the camera
+- Auto framing in vertical frames a talking-head shot
+- Remembers resolution, frame rate and codec
+- ⌘S saves a scene (photo is now ⇧⌘S); the mouse wheel zooms over the zoom control and joystick
+- Correct zoom limits for Osmo Pocket 4 and 4P
+- Only the Osmo Pocket connects automatically, with a hint when it isn't found
+- The preview shows the same colors as recordings
+- New look: SF Symbols icons, redesigned Settings, smooth transitions between camera modes
+- The window opens on the display where you left it
+
 ## 1.1.5 — 2026-10-20
 
 - The Osmo Pocket is always picked first, and virtual cameras (Camo, OBS and similar) no longer show up in the camera list

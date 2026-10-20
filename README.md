@@ -35,9 +35,12 @@
 | Zoom buttons and keyboard shortcuts | ✅ | ✅ |
 | Face tracking | ✅ | ✅ |
 | **Auto framing** (headroom-aware, one click) |  | ✅ |
+| **Vertical video (9:16)** — true vertical with the Pocket upright, or a 1216×2160 crop from 4K | ✅ | ✅ |
 | Grid and horizon guides | ✅ | ✅ |
 | **Vertical video guide (9:16)** |  | ✅ |
 | **Color looks (LUT)** — built-in looks, your own `.cube` and PNG LUTs |  | ✅ |
+| **Wide-angle lens correction** — straightens the DJI wide-angle lens |  | ✅ |
+| **Return to last position** when the camera reconnects |  | ✅ |
 | **Zoom and aim on the preview** — scroll to zoom, drag or swipe to move the gimbal |  | ✅ |
 | DJI Mic auto-switch, audio meter, countdown, battery and disk info | ✅ | ✅ |
 
@@ -68,7 +71,9 @@
 | | |
 |---|---|
 | Record / stop | ⌘R |
-| Photo | ⌘S |
+| Photo | ⇧⌘S |
+| Save the current view as a scene (Pro) | ⌘S |
+| Landscape / vertical video | ⇧⌘V |
 | Open the output folder | ⌘O |
 | Face tracking | ⌘T |
 | Auto framing (Pro) | ⌘⇧T |
