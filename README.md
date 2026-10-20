@@ -35,7 +35,7 @@
 | Zoom buttons and keyboard shortcuts | ✅ | ✅ |
 | Face tracking | ✅ | ✅ |
 | **Auto framing** (headroom-aware, one click) |  | ✅ |
-| **Vertical video (9:16)** — true vertical with the Pocket upright, or a 1216×2160 crop from 4K | ✅ | ✅ |
+| **Vertical video (9:16)** — true vertical with the Pocket upright, or a sharp 1080×1920 crop from 4K |  | ✅ |
 | Grid and horizon guides | ✅ | ✅ |
 | **Vertical video guide (9:16)** |  | ✅ |
 | **Color looks (LUT)** — built-in looks, your own `.cube` and PNG LUTs |  | ✅ |
@@ -73,7 +73,7 @@
 | Record / stop | ⌘R |
 | Photo | ⇧⌘S |
 | Save the current view as a scene (Pro) | ⌘S |
-| Landscape / vertical video | ⇧⌘V |
+| Landscape / vertical video (Pro) | ⇧⌘V |
 | Open the output folder | ⌘O |
 | Face tracking | ⌘T |
 | Auto framing (Pro) | ⌘⇧T |

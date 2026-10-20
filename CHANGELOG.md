@@ -2,8 +2,8 @@
 
 ## 1.5 — 2026-10-20
 
-- Vertical video (9:16): switch with the buttons at the top or ⇧⌘V. True vertical 1080×1920 with the Pocket upright, or a sharper 1216×2160 crop from 4K without turning the camera
-- Wide-angle lens correction (Pro): the new Wide Angle button straightens the curved edges of the DJI wide-angle lens, with a strength slider
+- Vertical video (9:16, Pro): switch with the buttons at the top or ⇧⌘V, or just turn the Pocket upright. True vertical with the Pocket upright, or a sharp 1080×1920 crop from 4K without turning the camera
+- Wide-angle lens correction (Pro): the new Wide Angle button straightens the curved edges of the DJI wide-angle lens, with a strength slider, keeping people at the edges natural
 - Return to last position (Pro): when the camera reconnects it turns and zooms back to where you left it; landscape and vertical keep their own positions and scenes
 - Reset camera position from the title bar: centers the camera at 1× and forgets the last position
 - The preview no longer freezes when OBS, Google Meet or Zoom opens the camera
@@ -15,6 +15,8 @@
 - The preview shows the same colors as recordings
 - New look: SF Symbols icons, redesigned Settings, smooth transitions between camera modes
 - The window opens on the display where you left it
+- A short guided tour shows how to aim by dragging the picture and zoom by scrolling (Pro)
+- The resolution button shows the right icon for 4K, 2.7K, HD or vertical
 
 ## 1.1.5 — 2026-10-20
 
