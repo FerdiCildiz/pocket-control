@@ -2,6 +2,7 @@
 
 ## 1.1.5 — 2026-10-20
 
+- The Osmo Pocket is always picked first, and virtual cameras (Camo, OBS and similar) no longer show up in the camera list
 - Your Pro license is now stored securely in the macOS Keychain and tied to this Mac
 - Pro confirms your license online now and then; it keeps working offline for up to 30 days
 - Settings › Pro shows the license status and lets you check again
