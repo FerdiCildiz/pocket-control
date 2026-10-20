@@ -6,6 +6,7 @@
 - Wide-angle lens correction (Pro): the new Wide Angle button straightens the curved edges of the DJI wide-angle lens, with a strength slider, keeping people at the edges natural
 - Return to last position (Pro): when the camera reconnects it turns and zooms back to where you left it; landscape and vertical keep their own positions and scenes
 - Reset camera position from the title bar: centers the camera at 1× and forgets the last position
+- Deleting a scene asks for confirmation right next to it (Delete ✕ ✓)
 - The preview no longer freezes when OBS, Google Meet or Zoom opens the camera
 - Auto framing in vertical frames a talking-head shot
 - Remembers resolution, frame rate and codec
