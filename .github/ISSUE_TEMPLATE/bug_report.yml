@@ -26,7 +26,7 @@ body:
   - type: input
     id: firmware
     attributes:
-      label: Osmo Pocket 3 firmware
+      label: Osmo Pocket model and firmware
   - type: textarea
     id: extra
     attributes:

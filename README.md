@@ -5,20 +5,20 @@
 <h1 align="center">Pocket+</h1>
 
 <p align="center">
-  A free macOS app that turns your <b>DJI Osmo Pocket 3</b> into a controllable desk camera:<br>
+  A free macOS app that turns your <b>DJI Osmo Pocket 2, 3, 4 or 4P</b> into a controllable desk camera:<br>
   record, take photos, steer the gimbal, zoom and track faces — all from your Mac.
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇︎ Download the latest version</b></a> &nbsp;·&nbsp; <a href="https://ferdicildiz.gumroad.com/l/pocketcontrol"><b>Get Pro</b></a>
+  <a href="../../releases/latest"><b>⬇︎ Download the latest version</b></a> &nbsp;·&nbsp; <a href="https://ferdicildiz.github.io/pocket-plus/"><b>Website</b></a> &nbsp;·&nbsp; <a href="https://ferdicildiz.gumroad.com/l/pocketcontrol"><b>Get Pro</b></a>
 </p>
 
 <p align="center">
-  🙌 <b>Like it? <a href="https://www.reddit.com/r/osmopocket/s/lvCdD2MSma">Upvote the post on r/osmopocket</a></b> — it helps more Pocket 3 owners find the app.
+  🙌 <b>Like it? <a href="https://www.reddit.com/r/osmopocket/s/lvCdD2MSma">Upvote the post on r/osmopocket</a></b> — it helps more Osmo Pocket owners find the app.
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Pocket+ controlling a DJI Osmo Pocket 3" width="900">
+  <img src="docs/screenshot.png" alt="Pocket+ controlling a DJI Osmo Pocket" width="900">
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## Requirements
 
 - macOS 14 Sonoma or later (Apple Silicon or Intel)
-- DJI Osmo Pocket 3, connected with USB-C and set to **Webcam** mode on the camera
+- DJI Osmo Pocket 2, 3, 4 or 4P, connected with USB-C and set to **Webcam** mode on the camera
 
 ## Install
 
@@ -61,7 +61,7 @@
 
 ## Getting started
 
-1. Turn on the Pocket 3, connect it with USB-C and choose **Webcam** on the camera's screen.
+1. Turn on the Pocket, connect it with USB-C and choose **Webcam** on the camera's screen.
 2. The image appears within a few seconds. If it doesn't, click the reconnect button at the top right
    or replug the cable and choose Webcam again.
 3. Battery and recording status are read over Bluetooth; everything else works without it.
@@ -92,7 +92,7 @@
 ## Support the project
 
 Pocket+ is free. If it's useful to you, the best way to help is to
-**[upvote and comment on the Reddit post](https://www.reddit.com/r/osmopocket/s/lvCdD2MSma)** so other Osmo Pocket 3 owners can find it.
+**[upvote and comment on the Reddit post](https://www.reddit.com/r/osmopocket/s/lvCdD2MSma)** so other Osmo Pocket owners can find it.
 A ⭐ on this repo helps too.
 
 ## Feedback
