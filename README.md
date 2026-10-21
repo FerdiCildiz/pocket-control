@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇︎ Download the latest version</b></a> &nbsp;·&nbsp; <a href="https://ferdicildiz.github.io/pocket-plus/"><b>Website</b></a> &nbsp;·&nbsp; <a href="https://ferdicildiz.gumroad.com/l/pocketcontrol"><b>Get Pro</b></a>
+  <a href="../../releases/latest"><b>⬇︎ Download the latest version</b></a> &nbsp;·&nbsp; <a href="https://pocketplus.app/"><b>Website</b></a> &nbsp;·&nbsp; <a href="https://ferdicildiz.gumroad.com/l/pocketcontrol"><b>Get Pro</b></a>
 </p>
 
 <p align="center">
