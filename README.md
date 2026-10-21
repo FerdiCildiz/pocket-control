@@ -53,7 +53,7 @@
 
 ## Install
 
-1. Download `PocketPlus-x.y.z.dmg` from [Releases](../../releases/latest) and open it.
+1. Download [`PocketPlus.zip`](https://github.com/FerdiCildiz/pocket-plus/releases/latest/download/PocketPlus.zip) and open it (Safari unzips it for you).
 2. Drag **Pocket+** into **Applications**.
 3. Open the app. The app is free but not notarized by Apple, so macOS blocks it the first time:
    open **System Settings › Privacy & Security**, scroll down and click **Open Anyway**. You only do this once.
