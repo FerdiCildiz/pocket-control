@@ -18,6 +18,7 @@
 - The window opens on the display where you left it
 - A short guided tour shows how to aim by dragging the picture and zoom by scrolling (Pro)
 - The resolution button shows the right icon for 4K, 2.7K, HD or vertical
+- Build 19 (2026-10-21): a little confetti celebration when you activate Pro in the app
 - Build 18 (2026-10-21): future-proof signing, so updates and your Pro license keep working when the signing certificate is renewed
 
 ## 1.1.5 — 2026-10-20
