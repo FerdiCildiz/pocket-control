@@ -23,6 +23,14 @@
 
 ---
 
+## Looking for DJI Mimo on a Mac?
+
+DJI Mimo, DJI's companion app for the Osmo Pocket, is made for iPhone, iPad and Android. There's no Mac version of it.
+Pocket+ is an independent Mac app for when the Pocket sits next to your Mac: live view, gimbal and zoom control over USB-C, face tracking and recording straight to the Mac.
+Keep Mimo on your phone for firmware updates and editing. More in [Is there a DJI Mimo app for Mac?](https://pocketplus.app/blog/dji-mimo-mac/)
+
+Pocket+ isn't affiliated with or endorsed by DJI.
+
 ## Features
 
 | | Free | Pro |
