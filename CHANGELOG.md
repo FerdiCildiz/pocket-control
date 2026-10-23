@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.1 — 2026-10-23
+
+- Fixed left and right going the wrong way after switching between the front and back of the camera (seen on Osmo Pocket 4): the direction is now learned separately for each side
+
 ## 1.5 — 2026-10-20
 
 - Vertical video (9:16, Pro): switch with the buttons at the top or ⇧⌘V, or just turn the Pocket upright. True vertical with the Pocket upright, or a sharp 1080×1920 crop from 4K without turning the camera
