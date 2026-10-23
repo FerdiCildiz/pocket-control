@@ -63,8 +63,7 @@ Pocket+ isn't affiliated with or endorsed by DJI.
 
 1. Download [`PocketPlus.zip`](https://github.com/FerdiCildiz/pocket-plus/releases/latest/download/PocketPlus.zip) and open it (Safari unzips it for you).
 2. Drag **Pocket+** into **Applications**.
-3. Open the app. The app is free but not notarized by Apple, so macOS blocks it the first time:
-   open **System Settings › Privacy & Security**, scroll down and click **Open Anyway**. You only do this once.
+3. Open the app. Pocket+ is signed and notarized by Apple, so it opens like any other Mac app. If macOS asks whether you want to open an app downloaded from the internet, click **Open**.
 4. Allow **Camera**, **Microphone** and **Bluetooth** when asked.
 
 ## Getting started
@@ -94,8 +93,6 @@ Pocket+ isn't affiliated with or endorsed by DJI.
 **Face tracking turns itself off.** The camera's own ActiveTrack is on. Turn it off on the camera.
 
 **Where are my recordings?** In your **Movies** folder by default. Change it in Settings › Output folder.
-
-**"Open Anyway" isn't there.** Try opening the app once more, then check Privacy & Security again.
 
 ## Support the project
 
